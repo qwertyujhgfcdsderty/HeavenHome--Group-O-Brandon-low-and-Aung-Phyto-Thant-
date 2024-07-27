@@ -1,4 +1,4 @@
-namespace WebApplication_HeavenHome.Models
+namespace HeavenHome.Models
 {
     public class ErrorViewModel
     {
